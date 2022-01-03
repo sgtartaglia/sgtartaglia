@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python and data science
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me:
- * linkedin: https://www.linkedin.com/in/sttartaglia/
- * twitter: @sgtartaglia
+  * linkedin: https://www.linkedin.com/in/sttartaglia/
+  * twitter: @sgtartaglia
 
 <!---
 sgtartaglia/sgtartaglia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
