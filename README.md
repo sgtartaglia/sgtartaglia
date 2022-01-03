@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgtartaglia
-- 👀 I’m interested in Python, data ccience and creating simple usable data driven web apps.
+- 👀 I’m interested in Python, data science and creating simple usable data driven web apps.
 - 🌱 I’m currently learning Python and data science
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me:
